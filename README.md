@@ -44,7 +44,6 @@ Le programme dispose d'une interface menu conviviale qui guide les utilisateurs 
 - **Entrée/Sortie** : Interface console utilisant printf/scanf
 - **Gestion mémoire** : Stockage de données à instance unique (pas de persistance fichier)
 
-
 ## 📝 Menu Principal
 
 | Option | Description |
@@ -54,7 +53,6 @@ Le programme dispose d'une interface menu conviviale qui guide les utilisateurs 
 | [3] | Modifier (Mettre à jour les enregistrements) |
 | [4] | Supprimer (Effacer les enregistrements) |
 | [5] | Quitter (Fermer l'application) |
-
 
 ## 🧪 Exemple d'Utilisation
 
@@ -85,7 +83,27 @@ Veuillez choisir un numero:
 
 2024
 
-
 ## 💻 Langage de Programmation
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 🎓 Projet de 1ère Année - Développement Informatique
+
+Ce projet a été réalisé dans le cadre de la formation en **Développement Informatique** de première année. Il représente l'application pratique des concepts fondamentaux appris durant l'année :
+
+- **Algorithmique** et logique de programmation
+- **Structures de contrôle** (boucles, conditions)
+- **Structures de données** (struct)
+- **Manipulation** des entrées/sorties console
+- **Gestion** de menus interactifs
+
+---
+
+```
+   ╔═══════════════════════════════════════════╗
+   ║  Projet réalisé avec succès en C         ║
+   ║  par COLONEL, BAKI et OUSSAMA            ║
+   ╚═══════════════════════════════════════════╝
+```
